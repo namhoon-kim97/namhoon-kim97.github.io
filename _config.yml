@@ -1,5 +1,5 @@
 # Setup
-title: Not Pure Poole
+title: "안녕하세요, 김남훈의 블로그입니다."
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 baseurl: ""
 url: "https://namhoon-kim97.github.io/"
@@ -27,7 +27,7 @@ exclude:
   - README.md
   - scripts/
   - not-pure-poole.gemspec
-#test
+
 # Optimize Jekyl SEO Tag
 twitter:
   username: vszhub
@@ -55,6 +55,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: 김남훈
+  url: https://https://github.com/namhoon-kim97
+  email: unte140@naver.com
