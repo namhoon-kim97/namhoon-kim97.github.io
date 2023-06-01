@@ -27,7 +27,7 @@ exclude:
   - README.md
   - scripts/
   - not-pure-poole.gemspec
-
+#test
 # Optimize Jekyl SEO Tag
 twitter:
   username: vszhub
